@@ -1,3 +1,7 @@
+#Pugnator
+
+obs.: the code and other things are in portuguese.
+
 Os arquivos pugObjects e pugQuestion sao editaveis com novas perguntas mas nao com novos parametros.
 
 A lista de Objetos padrao inclui:
