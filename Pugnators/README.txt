@@ -1,4 +1,4 @@
-#Pugnator
+Pugnator
 
 obs.: the code and other things are in portuguese.
 
